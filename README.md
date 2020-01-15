@@ -1,3 +1,8 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
 # reproducible-research-R-Jan2020
 
 ## Code
@@ -12,6 +17,11 @@
 
 > info session
 
-```{r echo=TRUE, include=TRUE}
+
+```{r}
 devtools::session_info()
 ```
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
