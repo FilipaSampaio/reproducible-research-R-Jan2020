@@ -1,4 +1,7 @@
 #new test script
 
-# this is a new line of code
-dara=reac.csv("pie.csv")
+# add dataset
+data=read.csv("pie.csv")
+
+# copy the data 
+data2 <- data
