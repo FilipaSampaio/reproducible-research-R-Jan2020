@@ -11,7 +11,7 @@ This is in Rmarkdown!
 
 > info session
 
-```{r}
+```{r echo=TRUE}
 devtools::session_info()
 ```
 
