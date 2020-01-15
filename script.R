@@ -4,4 +4,6 @@
 data=read.csv("pie.csv")
 
 # copy the data 
-data2 <- data
+pie.data <- data
+
+#I'm hungry
