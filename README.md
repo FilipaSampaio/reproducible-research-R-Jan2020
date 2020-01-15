@@ -12,7 +12,11 @@
 
 > info session
 
-```{r echo=TRUE}
+```{r echo=FALSE}
 devtools::session_info()
+```
+
+```{r}
+
 ```
 
